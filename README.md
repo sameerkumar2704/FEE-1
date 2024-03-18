@@ -1,1 +1,1 @@
-## frontend project pahse-1
+## frontend project phase-1
